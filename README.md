@@ -10,10 +10,11 @@ Hi! I’m Rushi Lukka, a passionate junior software developer with a knack for c
 
 ### 📫 Connect with Me:
 <p align="center"> 
+  <div style="display :flex; justify-content:center "></div>
   <a href="https://twitter.com/rushi_lukka" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/> 
   </a> 
-  <pre>            </pre>
+  <pre> </pre>
   <a href="https://linkedin.com/in/rushi-lukka" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
