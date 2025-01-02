@@ -15,11 +15,10 @@ Hi! I’m Rushi Lukka, a passionate junior software developer with a knack for c
   <a href="https://twitter.com/rushi_lukka" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/> 
   </a> 
-  <pre> </pre>
+   
   <a href="https://linkedin.com/in/rushi-lukka" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/> 
   </a> 
-  </div>
   <a href="https://instagram.com/rushilukka" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/> 
   </a> 
@@ -35,6 +34,7 @@ Hi! I’m Rushi Lukka, a passionate junior software developer with a knack for c
   <a href="https://auth.geeksforgeeks.org/user/rushilukka3/profile" target="_blank" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40"/> 
   </a> 
+  </div>
 </p>
 
 ---
