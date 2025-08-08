@@ -4,11 +4,14 @@
 ---
 
 ### 🧑‍💻 About Me
-Software Engineer with a knack for creating dynamic web and mobile applications.  
+<h6>Software Engineer with a knack for creating dynamic web and mobile applications.  
 Currently working with **JavaScript** and **TypeScript**, and always exploring and learning new tools & technologies that can be effectively applied in real-world and social contexts.  
-I enjoy solving complex problems and turning ideas into reality.
+I enjoy solving complex problems and turning ideas into reality.</h6>
+
 ---
-### 📫 Connect with Me:
+
+
+### 📫 Social Media Profiles
 <p align="center"> 
   <a href="https://twitter.com/rushi_lukka" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/> 
@@ -36,7 +39,7 @@ I enjoy solving complex problems and turning ideas into reality.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40"/></a>
