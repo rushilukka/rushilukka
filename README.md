@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rushi Lukka</h1>
-<h3 align="center">Jr Software Developer</h3>
+<h1 align="center">Rushi Lukka</h1>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-Hi! I’m Rushi Lukka, a passionate junior software developer with a knack for creating dynamic web and mobile applications. I enjoy solving complex problems and turning ideas into reality using code.
-
+Software Engineer with a knack for creating dynamic web and mobile applications.  
+Currently working with **JavaScript** and **TypeScript**, and always exploring and learning new tools & technologies that can be effectively applied in real-world and social contexts.  
+I enjoy solving complex problems and turning ideas into reality.
 ---
 ### 📫 Connect with Me:
 <p align="center"> 
