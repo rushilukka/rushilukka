@@ -26,6 +26,12 @@ I enjoy solving complex problems and turning ideas into reality.</h6>
   <a href="https://www.leetcode.com/rushilukka" target="_blank"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/> 
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/rushi_lukka" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@rushi.lukka.14" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40"/> 
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
