@@ -3,7 +3,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 <h6>Software Engineer with a knack for creating dynamic web and mobile applications.  
 Currently working with JavaScript and TypeScript, and always exploring and learning new tools & technologies that can be effectively applied in real-world and social contexts.  
 I enjoy solving complex problems and turning ideas into reality.</h6>
@@ -11,7 +11,7 @@ I enjoy solving complex problems and turning ideas into reality.</h6>
 ---
 
 
-### 📫 Social Media Profiles
+### Social Media Profiles
 <p align="center"> 
 
   <a href="https://www.linkedin.com/in/rushi-lukka-43772a263" target="_blank"> 
