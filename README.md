@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123f5a,100:2e6f68&height=250&section=header&text=RUSHI%20LUKKA&fontColor=ffffff&fontSize=64&fontAlignY=34&desc=Full-Stack%20Engineer%20%7C%20React,%20Node.js,%20TypeScript%20%7C%20Building%20AI%20SaaS%20Products&descSize=17&descAlignY=58" alt="Rushi Lukka - Full-Stack Engineer" />
 </div>
 
-<h4 align="center">Open to co-building AI SaaS products with domain experts</h4>
+<h2 align="center">Open to co-building AI SaaS products with domain experts</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/rushilukka" target="_blank">
