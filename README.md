@@ -5,11 +5,15 @@
 <h2 align="center">Open to co-building AI SaaS products with domain experts</h2>
 
 <p align="center">
+  <strong>Let's build purpose-driven products together!</strong>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/rushilukka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rushi%20Lukka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile for Rushi Lukka" />
   </a>
   <a href="mailto:rnlukka.tech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-rnlukka.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rushi Lukka on Gmail" />
   </a>
 </p>
 
